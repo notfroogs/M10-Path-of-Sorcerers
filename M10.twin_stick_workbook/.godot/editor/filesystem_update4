@@ -1,0 +1,6 @@
+res://default_env.tres
+res://addons/gdpractice/assets/theme.tres
+res://player/player.tscn
+res://player/player.gd
+res://player/playerSprite.gd
+res://player/test.tscn
